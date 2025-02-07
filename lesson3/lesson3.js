@@ -4,6 +4,8 @@ for (let i = 0; i < 10; i++) {
     document.write('<div> <h3>Lorem ipsum dolor sit amet.</h3> <br/></div>');
 }
 
+// все закоментовано, бо через повтор назв змінних видає помилки
+
 // lesson 3.2
 
 // for (let i = 1; i <= 10; i++) {
